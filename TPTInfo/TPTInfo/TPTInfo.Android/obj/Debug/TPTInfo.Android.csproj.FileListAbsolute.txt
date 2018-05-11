@@ -1,0 +1,9 @@
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Android.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Android.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Droid.App.xaml.g.cs
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Droid.MainPage.xaml.g.cs
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Droid.Introduction.xaml.g.cs
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Droid.UsefulLinks.xaml.g.cs
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Droid.Timetable.xaml.g.cs
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Droid.News.xaml.g.cs
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\TPTInfo\TPTInfo\TPTInfo.Android\obj\Debug\TPTInfo.Droid.ClassTimes.xaml.g.cs
